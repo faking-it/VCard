@@ -5,6 +5,7 @@ body {
     margin: 2vw;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.2vw;
+    background-image: linear-gradient(white 80%, #3636c0c9);;
 }
 
 #bande-bleu {
